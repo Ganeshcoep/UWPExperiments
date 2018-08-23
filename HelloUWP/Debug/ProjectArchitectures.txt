@@ -1,0 +1,1 @@
+c:\Users\gasalvi\source\repos\HelloUWP\HelloUWP\HelloUWP.vcxproj;x86
